@@ -1,0 +1,23 @@
+  <!--
+      Clayton Oswald
+      Bellevue University
+      The Purpose of this Document is to create a style sheet for StudentTable.xml
+      02.24.19
+      StudentTable.css
+    -->
+    
+studentTable {
+    background-color: white;
+    width: 100%;
+}
+Student {
+    display: block;
+    margin-bottom: 30pt;
+    margin-left: 0;
+}
+
+ID, LastName, FirstName, ClassNumber, Email {
+    display: block;
+    color: #000000;
+    margin-left: 20pt;
+}

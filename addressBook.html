@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+
+<!-- Clayton Oswald
+Bellevue Univerisity
+The Purpose of this Document is to create an Address Book for users to gather their name, address, and zip code.
+addressBook.html
+03/09/2019
+-->
+
+<html>
+
+<style>
+
+body {
+  background-image: url(https://wallpapercave.com/wp/wp3416319.jpg);
+}
+
+h1 {
+  color: white;
+  text-align: center;
+  font-style: italic;
+}
+
+p {
+  border: 2.5px solid white;
+  padding: 10px;
+  color: white;
+  font-family: cursive;
+  text-decoration:inherit;
+}
+
+</style>
+
+  <h1>Enter Address Book Info:</h1>
+  <hr>
+  <body>
+
+    <form action="addressbook.php" method="post">
+      
+  <p>
+      Name: <input type="text" name="name"><br>
+  </p>
+  <p>
+    Address: <input type="text" name="address"><br>
+  </p>
+  <p>
+    Phone Number: <input type="number" name="phoneNumber"><br>
+  </p>
+  <p>
+    Zip Code: <input type="number" name="zip"><br>
+  </p>
+
+    <input type="submit">
+    </form>
+
+  </body>
+</html>

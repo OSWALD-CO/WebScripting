@@ -1,0 +1,110 @@
+ <!--
+      Clayton Oswald
+      Bellevue University
+      The Purpose of this Document is to create an XML document that displays the information from a table
+      02.24.19
+      StudentTable.XML
+    -->
+    
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type='text/css' href='StudentTable.css'?>
+
+<studentTable>
+
+<Student>
+	<ID> student807 </ID>
+	<LastName>Catlett</LastName>
+	<FirstName>Herbert</FirstName>  
+	<ClassNumber>55</ClassNumber>  
+	<Email>herbert.catlett@firstdatacorp.com</Email>
+</Student>.
+
+<Student>
+    	<ID> student814 </ID>
+    	<LastName>Conti</LastName>
+    	<FirstName>Gilberto</FirstName>  
+    	<ClassNumber>55</ClassNumber>  
+    	<Email>gilberto.conti@firstdatacorp.com</Email>
+</Student>
+
+<Student>
+   	<ID> student808 </ID>
+   	<LastName>Flekke</LastName>
+   	<FirstName>Curtis</FirstName>  
+   	<ClassNumber>55</ClassNumber>  
+   	<Email>cis-tap@flekke.com</Email>
+</Student>
+
+<Student>
+   	<ID> student809 </ID>
+  	<LastName>Golla</LastName>
+   	<FirstName>Michael</FirstName>  
+   	<ClassNumber>55</ClassNumber>  
+   	<Email>michael.golla@firstdatacorp.com</Email>
+</Student>
+
+<Student>
+   	<ID> student815</ID>
+   	<LastName>Grossoehme</LastName>
+   	<FirstName>Keith</FirstName>  
+   	<ClassNumber>55</ClassNumber>  
+   	<Email>keithcbk@cox.net</Email>
+</Student> 
+
+<Student>
+   	<ID> student817</ID>
+   	<LastName>Guraedy</LastName>
+   	<FirstName>Phillip</FirstName>  
+   	<ClassNumber>55</ClassNumber>  
+   	<Email>phillip@guraedy.com</Email>
+</Student>  
+
+<Student>
+   	<ID> student813</ID>
+   	<LastName>Haugen</LastName>
+   	<FirstName>Melissa</FirstName>  
+   	<ClassNumber>55</ClassNumber>  
+   	<Email>melissa.haugen@firstdatacorp.com</Email>
+</Student>  
+
+<Student>
+	<ID> student826</ID>
+	<LastName>Kunz</LastName>
+	<FirstName>Matthew</FirstName>  
+	<ClassNumber>55</ClassNumber>  
+	<Email>cpu_rx@hotmail.com</Email>
+</Student>
+
+<Student>
+	<ID> student811</ID>
+	<LastName>Skeen</LastName>
+	<FirstName>Angela</FirstName>  
+	<ClassNumber>55</ClassNumber>  
+	<Email>anne_skeen@yahoo.com</Email>
+</Student>
+
+<Student>
+	<ID> student812</ID>
+	<LastName>Vanderloo</LastName>
+	<FirstName>Mark</FirstName>  
+	<ClassNumber>55</ClassNumber>  
+	<Email>mjvanderloo@yahoo.com</Email>
+</Student>
+
+<Student>
+	<ID> student819</ID>
+	<LastName>Vanderveen</LastName>
+	<FirstName>Ronald</FirstName>  
+	<ClassNumber>55</ClassNumber>  
+	<Email>ron.vanderveen@firstdatacorp.com</Email>
+</Student>
+
+<Student>
+	<ID>student818</ID>
+	<LastName>Vaughn</LastName>
+	<FirstName>Barry</FirstName>  
+	<ClassNumber>55</ClassNumber>  
+	<Email>von7668@cox.net</Email>
+</Student>   
+
+</studentTable>
